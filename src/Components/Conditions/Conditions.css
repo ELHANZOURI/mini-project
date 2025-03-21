@@ -1,0 +1,35 @@
+.conditions{
+    margin: 30px auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.conditions h2{
+    color: rgb(13, 192, 192);
+    font-weight: 600;
+    margin: 20px 0;
+}
+
+.conditions h1{
+    margin-bottom: 50px;
+}
+
+.conditions p{
+    max-width: 90%;
+    margin: 20px 0;
+    line-height: 2.5;
+    
+}
+
+.conditions ul li {
+    list-style: none;
+}
+
+.border{
+    border-top: 1px solid #979797;
+    width: 100%;
+}
+
